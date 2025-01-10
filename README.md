@@ -7,7 +7,7 @@ I'm passionate about **FinTech** 💰, where technology transforms finance-relat
 ### 🛠️ What I Focus On:
 - **Skill Building**: Learning **Databases** 🗄️, **Automation** 🤖, **Machine Learning** 🤖, and **Deep Learning** 🧠.  
 - **Empowering Through Code**: Researching how to use **Python** to enable smarter solutions. 💻  
-- **Trying**: Product Management, exploring how to design and manage products that thrive in a digital-first world. 🌟  
+- **Expanding / Dreaming**: Product Management, exploring how to design and manage products that thrive in a digital-first world. 🌟  
 
 ### 💡 A Little More About Me:
 - 🌱 Always expanding my **tech stack** and refining my understanding of the intersection of **finance and technology**.  

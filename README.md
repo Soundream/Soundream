@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Soundream/Soundream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🚀  
 
-Here are some ideas to get you started:
+I'm passionate about **FinTech** 💰, where technology transforms finance-related areas to create meaningful change. My journey began in **Economics** 📈, and I've since transitioned to **Digital Financial Technology** 🌐.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Focus On:
+- **Skill Building**: Learning **Databases** 🗄️, **Automation** 🤖, **Machine Learning** 🤖, and **Deep Learning** 🧠.  
+- **Empowering Through Code**: Researching how to use **Python** to enable smarter solutions. 💻  
+- **Trying**: Product Management, exploring how to design and manage products that thrive in a digital-first world. 🌟  
+
+### 💡 A Little More About Me:
+- 🌱 Always expanding my **tech stack** and refining my understanding of the intersection of **finance and technology**.  
+- ✨ My vision: To bridge **data & code & product**, building products that deliver innovation and impact.  
+
+Feel free to connect or collaborate! 🤝  

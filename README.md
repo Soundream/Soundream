@@ -11,6 +11,6 @@ I'm passionate about **FinTech** 💰, where technology transforms finance-relat
 
 ### 💡 A Little More About Me:
 - 🌱 Always expanding my **tech stack** and refining my understanding of the intersection of **finance and technology**.  
-- ✨ My vision: To bridge **data & code & product**, building products that deliver innovation and impact.  
+- ✨ My vision: To bridge **data & code & AI & product**, building products that deliver innovation and impact.  
 
 Feel free to connect or collaborate! 🤝  
